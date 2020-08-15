@@ -7,5 +7,6 @@ class demo
  def concat()
  end
  def revert()
+ print(hai)
  end
 end
