@@ -1,6 +1,11 @@
+class demo
 
-
-Hi
-
-Git demo 1
-git demo 2 + Don bosco
+ def init()
+ end
+ def print()
+ end
+ def concat()
+ end
+ def revert()
+ end
+end
